@@ -1,0 +1,1 @@
+{"steps":[{"screenshot":"1-start.jpg"},{"keys":["C"],"screenshot":"2-play.jpg","wait_ms":1000},{"call":{"fn":"forceStorm","module":"ServerScriptService.Server.ThreatService","on":"Server"},"screenshot":"3-storm.jpg","wait_ms":1500},{"screenshot":"4-rebirth.jpg","wait_ms":1000}],"tour":1}
