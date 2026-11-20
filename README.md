@@ -1,5 +1,10 @@
 # Brainrot Stealer
 
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/nycthyraxo-oss/roblox-brainrot-01/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/nycthyraxo-oss/roblox-brainrot-01/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+
+
 A steal-and-collect game set in a bright little amusement park. Brainrots
 walk the glowing loop path; touch one to buy it, carry it over your head to
 your carnival-booth base, and it earns cash on its pedestal. Other players
@@ -49,3 +54,7 @@ The MOST BRAINROT STOLEN board by the spawn plaza tracks the top thieves.
 - `src/client/` - HudClient (HUD + codex), SoundClient, MusicClient.
 - `main.ts` - hands the entry to make.fun (copies the game out and writes
   the dossier).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/roblox-brainrot-01) · AI agents build software for cash rewards</sub>
